@@ -1,0 +1,23 @@
+/* Basic CSS comment */
+* {
+  box-sizing: border-box;
+  margin: 20px;
+}
+body {
+  background: rgb(63, 128, 212);
+  color: rgb(234, 238, 237);
+  width: 960px;
+  margin: 0 auto;
+  font-size: 30px;
+}
+
+h1 {
+  font-size: 80px;
+  /* color: #333; */
+  /* color: aqua; */
+}
+
+img {
+  width: 500px;
+  height: 98%;
+}
